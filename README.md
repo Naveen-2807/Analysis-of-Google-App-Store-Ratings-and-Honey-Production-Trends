@@ -24,7 +24,7 @@ Web scraped data of 10k Play Store apps for analyzing the Android market. Each a
 category, rating, size, and more.
 
 Attribute Information:
-Slno. Attribute Description
+
 1. App Application name
 2. Category Category the app belongs to.
 3. Rating Overall user rating of the app
@@ -64,7 +64,7 @@ The Goal is to use Python visualization libraries such as seaborn and matplotlib
 some useful conclusions.
 
 Attribute Information:
-Slno. Attribute Description
+
 1. numcol Number of honey producing colonies.
 2. yield percol Honey yield per colony. (Unit is pounds)
 3. total prod Total production (numcol x yieldpercol). (Unit is pounds)
