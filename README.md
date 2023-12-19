@@ -1,17 +1,25 @@
 # Analysis-of-Google-App-Store-Ratings-and-Honey-Production-Trends
 PART I:
+
 EDA & Data Preprocessing on Google App Store Rating Dataset.
+
 Domain: Mobile device apps
+
 Context:
+
 The Play Store apps data has enormous potential to drive app-making businesses to success. However, many
 apps are being developed every single day and only a few of them become profitable. It is important for
 developers to be able to predict the success of their app and incorporate features which makes an app
 successful. Before any such predictive-study can be done, it is necessary to do EDA and data-preprocessing on
 the apps data available for google app store applications. From the collected apps data and user ratings from
 the app stores, let's try to extract insightful information.
+
 Objective:
+
 The Goal is to explore the data and pre-process it for future use in any predictive analytics study.
+
 Data set Information:
+
 Web scraped data of 10k Play Store apps for analyzing the Android market. Each app (row) has values for
 category, rating, size, and more.
 
@@ -32,10 +40,14 @@ musical family game will belong to Music, Game, Family genres.
 12. Android Ver Min required Android Version.
 
 PART II:
+
 Data Visualization on Honey Production dataset using seaborn
 and matplotlib libraries.
+
 Domain: Food and agriculture
+
 Context:
+
 In 2006, a global concern was raised over the rapid decline in the honeybee population, an integral component
 to American honey agriculture. Large numbers of hives were lost to “Colony-Collapse-Disorder”, a
 phenomenon of disappearing “worker-bees” causing the remaining “hive-colony” to collapse. Speculation
@@ -45,7 +57,9 @@ American honey industry is still largely struggling. The U.S. used to locally pr
 consumes per year. Now, honey mostly comes from overseas, with 350 of the 400 million pounds of honey
 consumed every year originating from imports. This dataset provides insight into honey production supply and
 demand in America by state from 1998 to 2012.
+
 Objective:
+
 The Goal is to use Python visualization libraries such as seaborn and matplotlib to investigate the data and get
 some useful conclusions.
 
